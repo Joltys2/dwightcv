@@ -1,0 +1,23 @@
+body {
+  background-color: #263238;
+  color: #DAF7A6;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* a:visited {
+  color: #C70039;
+} */
+
+a {
+  text-decoration: none;
+  color: #C70039;
+}
+
+img {
+  /* border-radius: 100%; */
+  width: 100%;
+}
+
+table {
+  border-spacing: 20px;
+}
